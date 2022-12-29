@@ -1,5 +1,5 @@
 import "./App.css";
-import "./index.css";
+import "./Index.css";
 import { useEffect, useState } from "react";
 import { Navigate, Routes, Route, NavLink, Link } from "react-router-dom";
 import { ProductType } from "./type/ProductType";
